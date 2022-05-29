@@ -1,4 +1,5 @@
-# test-input
+# chip-input
+Basic code idea for showing input as chip on enter
 
 ## Project setup
 ```
